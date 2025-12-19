@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHP config (secrets)
+config/db.php
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node (if ever used)
+node_modules/
+
+# Vendor
+/vendor/
+
+# Temp / debug html
+*.html
